@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
         //mester3
         //mester4
         //mester5
+        //rebase 테스트 10
         setContent {
             TestServiceTheme {
                 // A surface container using the 'background' color from the theme

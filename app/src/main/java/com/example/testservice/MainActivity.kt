@@ -32,6 +32,9 @@ class MainActivity : ComponentActivity() {
             val intent = Intent(this@MainActivity, TestService::class.java)
             startForegroundService(intent)
         }
+        //master
+        //master1
+        //master2
         setContent {
             TestServiceTheme {
                 // A surface container using the 'background' color from the theme
